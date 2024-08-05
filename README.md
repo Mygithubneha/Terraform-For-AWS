@@ -91,10 +91,3 @@ Alternatively, you can automate the deployment process using GitHub Actions. The
 
 Contributions to this repository are welcome! If you have any improvements or additional services to include, please feel free to submit a pull request. Ensure that the changes align with the repository's guidelines and best practices.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [aman.pathk23@gmail.com](mailto:aman.pathk23@gmail.com).
